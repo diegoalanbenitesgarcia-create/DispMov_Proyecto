@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DispMov_Proyecto</string>
+    <string name="logo_content_description">Logo de la empresa</string>
+    <string name="titulo_login">Gestión de Tareas</string>
+    <string name="selecciona_rol">Selecciona tu rol</string>
+    <string name="rol_empleado">Empleado</string>
+    <string name="rol_supervisor">Supervisor</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+</resources>
